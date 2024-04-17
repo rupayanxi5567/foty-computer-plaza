@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Dell Alienware x16 Gaming Laptop, Intel Core i9 13900HK Processor/32GB/2TB SSD/NVIDIA RTX 4090 16GB GDDR6/ 16(40.64cm) QHD+ 240Hz, 3ms, DCI-P3 100%/Win 11+MSO'21+McAfee 15 Month/Lunar Silver/2.72kg",
+      "category": "Computers",
+      "brand": "Dell",
+      "price": 4700,
+      "stock": 50,
+      "description": ", Intel Core i9 13900HK Processor/32GB/2TB SSD/NVIDIA RTX 4090 16GB GDDR6/ 16(40.64cm) QHD+ 240Hz, 3ms, DCI-P3 100%/Win 11+MSO'21+McAfee 15 Month/Lunar Silver/2.72kg",
+      "image": "../images/p-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 15 Pro Max (256 GB) - Blue Titanium",
+      "category": "Mobiles",
+      "brand": "Apple",
+      "price": 1750,
+      "stock": 200,
+      "image": "../images/p-2.png",
+      "description": "FORGED IN TITANIUM — iPhone 15 Pro Max has a strong and light aerospace-grade titanium design with a textured matte-glass back. It also features a Ceramic Shield front that's tougher than any smartphone glass. And it's splash, water, and dust resistant."
+    },
+    {
+      "id": 3,
+      "name": "ASUS Rog Strix Geforce RTX 4090 White OC Edition Gaming Graphics Card (Pcie 4.0, 24Gb Gddr6X, HDmi 2.1A, Displayport 1.4A) pci_e_x16",
+      "category": "GPU",
+      "brand": "Asus",
+      "price": 940,
+      "stock": 30,
+      "image": "../images/p-3.png",
+      "description": "NVIDIA Ada Lovelace Streaming Multiprocessors: Up to 2x performance and power efficiency"
+    },
+    {
+      "id": 4,
+      "name": "LG 49' Curved Ultragear Dual Qhd (5120 X 1440) @1Ms, 240Hz Gaming Monitor with Vesa Displayhdr 1000, Premium Gaming LCD Display, AMD Freesync, Dci-P3 95% (Typ.), Hdmi, Dp, Speakers, 49Gr85Dc (Black)",
+      "category": "Display",
+      "brand": "LG",
+      "price": 1500,
+      "stock": 20,
+      "image": "../images/p-4.png",
+      "description": "LG Electronics, LG Electronics Nanjing New Technology Co. Ltd, NO.346, YAOXIN ROAD ECONOMIC & TECHNICAL DEVELOPMENT ZONE, NANJING, 210038, PEOPLE'S REPUBLIC OF CHINA"
+    }
+  ]
